@@ -4,9 +4,6 @@
   
   
 
-
-
-    
   
 ## Description  
 [Link to Live Page](https://nameless-meadow-70824.herokuapp.com/)
@@ -24,9 +21,6 @@ Do a 'git clone', 'run', 'npm i' on intergrated termainal and 'npm run start'. O
 
 ## Credits
 Made by Grant Royseth!
-
-## What I learned and challenges
-
 
 
 ## Questions
